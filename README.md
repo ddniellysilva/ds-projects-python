@@ -45,6 +45,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" height="40" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-plain.svg" height="40" alt="sickit-learn logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
 </div>
 
