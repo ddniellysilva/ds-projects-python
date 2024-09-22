@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">Objetivos do Livro:</h4>
+<p align="left"></p>
 
 ###
 
@@ -22,7 +22,11 @@
 
 ###
 
-<p align="left">- Instalar os pacotes necessários para a definição de um ambiente de codificação de ciência de dados;<br>- Carregar os dados em um Jupyter Notebook executando Python;<br>- Usar o Matplotlib para criar visualizações de dados;<br>- Criar um modelo usando scikit-learn;<br>- Usar o lasso e a regressão ridge para reduzir o overfitting (sobreajuste);<br>- Criar e ajustar um modelo de floresta aleatória e comparar o desempenho com o de regressão logística;<br>- Criar visualizações usando a saída do Jupyter Notebook.</p>
+<h4 align="left">Objetivos do Livro:</h4>
+
+###
+
+<p align="left">- Instalar os pacotes necessários para a definição de um ambiente de codificação de ciência de dados;<br>- Carregar os dados em um Jupyter Notebook executando Python;<br>-Usar o Matplotlib para criar visualizações de dados;<br>- Criar um modelo usando scikit-learn;<br>- Usar o lasso e a regressão ridge para reduzir o overfitting (sobreajuste);<br>- Criar e ajustar um modelo de floresta aleatória e comparar o desempenho com o de regressão logística;<br>- Criar visualizações usando a saída do Jupyter Notebook.</p>
 
 ###
 
@@ -44,10 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" height="40" alt="matplotlib logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-plain.svg" height="40" alt="sickit-learn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
 </div>
