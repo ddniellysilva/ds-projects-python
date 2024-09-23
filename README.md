@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Abordagem de estudo de caso para a criação de projetos de ciência de dados bem-sucedidos usando Python, pandas e sickit-learn.</p>
+<p align="center">Abordagem de estudo de caso para a criação de projetos de ciência de dados bem-sucedidos usando Python, pandas e scikit-learn.</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- Instalar os pacotes necessários para a definição de um ambiente de codificação de ciência de dados;<br>- Carregar os dados em um Jupyter Notebook executando Python;<br>-Usar o Matplotlib para criar visualizações de dados;<br>- Criar um modelo usando scikit-learn;<br>- Usar o lasso e a regressão ridge para reduzir o overfitting (sobreajuste);<br>- Criar e ajustar um modelo de floresta aleatória e comparar o desempenho com o de regressão logística;<br>- Criar visualizações usando a saída do Jupyter Notebook.</p>
+<p align="left">- Instalar os pacotes necessários para a definição de um ambiente de codificação de ciência de dados;<br>- Carregar os dados em um Jupyter Notebook executando Python;<br>- Usar o Matplotlib para criar visualizações de dados;<br>- Criar um modelo usando scikit-learn;<br>- Usar o lasso e a regressão ridge para reduzir o overfitting (sobreajuste);<br>- Criar e ajustar um modelo de floresta aleatória e comparar o desempenho com o de regressão logística;<br>- Criar visualizações usando a saída do Jupyter Notebook.</p>
 
 ###
 
