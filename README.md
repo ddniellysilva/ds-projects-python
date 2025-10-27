@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" height="40" alt="matplotlib logo"  />
+  <img src="https://matplotlib.org/3.1.3/_static/logo2_compressed.svg" height="30" alt="matplotlib logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-plain.svg" height="40" alt="sickit-learn logo"  />
   <img width="12" />
